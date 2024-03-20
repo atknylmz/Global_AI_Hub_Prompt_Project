@@ -1,0 +1,20 @@
+SİTE ANA YAPISI İÇİN KULLANDIĞIM PROMPT: (Kullandığım Aİ ---> https://chat.openai.com/)
+
+Bana semantik taglere sahip bir film önerisi yapabileceğim web sitesi yapabilir misin? header kısmında sitenin logosu ve ismi yani "What Should I Watch Today?" olmalı. Filmler yan yana ve resimli üzerine mouse götürülünce büyüyen ve resimlerin altında isimleri yazan bir şekilde olmalı. Footer kısmında da yine bir logo sitenin ismi ve copyright kısmı yer almalı. Ayrıca websitesi responsive bir tasarıma sahip olmalı. Bunu bana html ve css kodlarını ayrı ayrı verecek şekilde tasarlayabilir misin?
+
+---
+
+FİLM AFİŞLERİ İÇİN KULLANDIĞIM PROMPTLAR: (Kullandığım Aİ ---> https://deepdreamgenerator.com/generate)
+
+1-Bana uzayda geçen bir bilim kurgu filmi afişi tasarlayabilir misin?
+2-Bana ufak bir kızın başrolde olduğu bir korku filmi afişi tasarlayabilir misin?
+3-Bana aile ile izlenebilecek bir animasyon filmi afişi tasarlayabilir misin?
+4-Bana yeni çağda kovboyculuk yapan son insanların başrolde olduğu bir western filmi afişi tasarlayabilir misin?
+5-Bana İspanya esintileriyle süslenmiş bir müzikal film afişi tasarlayabilir misin?
+6-Bana bir kadın ve bir erkeğin başrollerinde olduğu komedi filmi afişi tasarlayabilir misin?
+7-Bana gizli bir ajanın görevlerini yapacağı bir aksiyon filmi afişi tasarlayabilir misin?
+8-Bana iki aşığın olduğu bir aşk filmi afişi tasarlayabilir misin?
+9-Bana üzerinde değişik hayvanların olduğu bir belgesel afişi tasarlayabilir misin?
+10-Bana üzerinde amerikan futbolcusu iki kişinin olduğu spor filmi afişi tasarlayabilir misin?
+11-Bana siyah-beyaz ve eski zamanlarda geçen ve kör bir insanın yanlış insana bağlanmasını anlatan bir kara-film afişi tasarlayabilir misin?
+12-Bana cruise tatiline giden insanların başına gelen felaketleri anlatan bir felaket filmi afişi tasarlayabilir misin?
